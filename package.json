@@ -1,0 +1,27 @@
+{
+  "name": "babel",
+  "version": "1.0.0",
+  "description": "babel demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hualongdai/babel.git"
+  },
+  "keywords": [
+    "babel"
+  ],
+  "author": "lance",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hualongdai/babel/issues"
+  },
+  "homepage": "https://github.com/hualongdai/babel#readme",
+  "devDependencies": {
+    "@babel/generator": "^7.14.3",
+    "@babel/parser": "^7.14.4",
+    "@babel/traverse": "^7.14.2"
+  }
+}
